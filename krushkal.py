@@ -65,6 +65,7 @@ if __name__=="__main__":
    graph.krushkal_algo()
    print("hello")
    print("bello")
+   print("mello")
    
 
            
