@@ -67,6 +67,7 @@ if __name__=="__main__":
    print("bello")
    print("mello")
    print("chilloo")
+   print("bello 200")
    
 
            
