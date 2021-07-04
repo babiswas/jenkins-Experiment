@@ -63,6 +63,7 @@ if __name__=="__main__":
    graph.add_edges(5,4,10)
    graph.add_edges(3,4,9)
    graph.krushkal_algo()
+   print("hello")
    
 
            
