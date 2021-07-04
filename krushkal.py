@@ -68,6 +68,8 @@ if __name__=="__main__":
    print("mello")
    print("chilloo")
    print("bello 200")
+   print("Beloo 200 200")
+   print("hello bello")
    
 
            
